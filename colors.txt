@@ -1,3 +1,4 @@
-red 
-yellow
-black
+Green
+Grey
+
+siyah
